@@ -1,10 +1,15 @@
-# electron-quick-start
+# Electron app built using Ionic 2
 
-**Clone and run for a quick way to see Electron in action.**
+![Electron and Ionic 2](app.jpg)
 
-This is a minimal Electron application based on the [Quick Start Guide](http://electron.atom.io/docs/tutorial/quick-start) within the Electron documentation.
+This repo is accompanying these tutorials on [techiediaries.com](https://www.techiediaries.com)
 
-**Use this app along with the [Electron API Demos](http://electron.atom.io/#get-started) app for API code examples to help you get started.**
+[Ionic 2 Split Pane for large screens and Desktop](https://www.techiediaries.com/ionic2-split-pane-desktop) which shows 
+how to use Ionic 2 to build UI for Desktop apps created with Electron and how to use Ionic 2 Split pane component .
+
+[Ionic 2 grid layout](https://www.techiediaries.com//ionic2-grid-layout) which shows
+how to use the grid layout system in Ionic 2 .
+
 
 A basic Electron application needs just these files:
 
@@ -20,21 +25,14 @@ To clone and run this repository you'll need [Git](https://git-scm.com) and [Nod
 
 ```bash
 # Clone this repository
-git clone https://github.com/electron/electron-quick-start
+git clone https://github.com/techiediaries/ionic2-electron
+
 # Go into the repository
-cd electron-quick-start
+cd ionic2-electron
 # Install dependencies
 npm install
 # Run the app
 npm start
 ```
 
-Learn more about Electron and its API in the [documentation](http://electron.atom.io/docs/).
-
-## Other Example Apps
-
-For more example apps, see the
-[list of boilerplates](http://electron.atom.io/community/#boilerplates)
-created by the awesome electron community.
-
-#### License [CC0 1.0 (Public Domain)](LICENSE.md)
+#### License MIT
