@@ -1,4 +1,4 @@
-# Electron app built using Ionic 2
+# Electron app built using Ionic 2 (Split pane + Grid system)
 
 ![Electron and Ionic 2](app.jpg)
 
@@ -7,7 +7,7 @@ This repo is accompanying these tutorials on [techiediaries.com](https://www.tec
 [Ionic 2 Split Pane for large screens and Desktop](https://www.techiediaries.com/ionic2-split-pane-desktop) which shows 
 how to use Ionic 2 to build UI for Desktop apps created with Electron and how to use Ionic 2 Split pane component .
 
-[Ionic 2 grid layout](https://www.techiediaries.com//ionic2-grid-layout) which shows
+[Ionic 2 grid layout](https://www.techiediaries.com/ionic2-grid-system-tutorial) which shows
 how to use the grid layout system in Ionic 2 .
 
 
